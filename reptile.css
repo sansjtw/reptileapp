@@ -1,0 +1,84 @@
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  position:absolute; 
+  top:400px;
+  font-size: 38px;
+}
+
+.button1 {
+padding: 38px 350px;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+body {
+	background-color: ;
+}
+
+#a {
+    top:10px;
+    font-size: 80px;
+    text-align:center;
+    style:color:MediumSeaGreen;
+    color: white;
+}
+#b {
+    position:absolute; 
+    left:380px;  
+    top:150px;
+    <!---用于以下 向左 向上 ------->
+}
+#c {
+    position:absolute; 
+    left:150px;  
+    top:250px;
+    font-size: 30px;
+}
+
+#d {
+    position:absolute; 
+    left:150px;  
+    top:300px;
+    font-size: 30px;
+}
+
+#e {
+    position:absolute; 
+    left:600px;  
+    top:250px;
+    font-size: 30px;
+}
+
+#f {
+    position:absolute; 
+    left:600px;  
+    top:300px;
+    font-size: 30px;
+}
+
+#g {
+    position:absolute; 
+    top:500px;
+    font-size: 50px;
+    color: blue;
+}
+
+#aa {
+    position:absolute; 
+    left:380px;  
+    top:600px;
+    font-size: 45px;
+}
+
+#bb {
+    position:absolute; 
+    top:650px;
+    font-size: 40px;
+}
